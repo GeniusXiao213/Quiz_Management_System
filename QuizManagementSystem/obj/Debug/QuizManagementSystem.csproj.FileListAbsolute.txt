@@ -1,0 +1,11 @@
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\bin\Debug\QuizManagementSystem.exe.config
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\bin\Debug\QuizManagementSystem.exe
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\bin\Debug\QuizManagementSystem.pdb
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.csproj.AssemblyReference.cache
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.Form1.resources
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.Properties.Resources.resources
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.csproj.GenerateResource.cache
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.exe
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.pdb
