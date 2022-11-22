@@ -9,3 +9,4 @@ C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\De
 C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.exe
 C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.pdb
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.Teacher.resources
