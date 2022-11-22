@@ -60,6 +60,12 @@
     <Compile Include="Teacher.Designer.cs">
       <DependentUpon>Teacher.cs</DependentUpon>
     </Compile>
+    <Compile Include="Teacher_UC\UC_AddNewQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_AddNewQuestion.Designer.cs">
+      <DependentUpon>UC_AddNewQuestion.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -75,6 +81,9 @@
     <EmbeddedResource Include="Teacher.resx">
       <DependentUpon>Teacher.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_UC\UC_AddNewQuestion.resx">
+      <DependentUpon>UC_AddNewQuestion.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -88,5 +97,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
