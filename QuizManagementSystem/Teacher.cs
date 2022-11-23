@@ -21,5 +21,16 @@ namespace QuizManagementSystem
         {
             Application.Exit();
         }
+
+        private void Teacher_Load(object sender, EventArgs e)
+        {
+            //uC_AddNewQuestion1.Visible = false;
+        }
+
+        private void btnAddNewQuestion_Click(object sender, EventArgs e)
+        {
+            //uC_AddNewQuestion1.Visible = true;
+            //uC_AddNewQuestion1.BringToFront();
+        }
     }
 }

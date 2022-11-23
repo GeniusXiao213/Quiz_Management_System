@@ -10,3 +10,6 @@ C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\De
 C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.exe
 C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.pdb
 C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.Teacher.resources
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\bin\Debug\Guna.UI2 (1).dll
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.Teacher_UC.UC_AddNewQuestion.resources
+C:\Users\xiaohanW_\source\repos\QuizManagementSystem\QuizManagementSystem\obj\Debug\QuizManagementSystem.csproj.CopyComplete
